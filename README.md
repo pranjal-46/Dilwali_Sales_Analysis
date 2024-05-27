@@ -1,4 +1,3 @@
-# Dilwali_Sales_Analysis {
-
-Analysed Diwali sales data to improve customer experience and sales. With the help of Pandas, Matplotlib, Seaborn libraries and data visualisation we have created the sales analysis which is completely developed using Python Programming.    
-}
+# Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+complete project on GitHub: https://0gaurav4.github.io/final-year23/Diwali%20Sales%20Prediction/web/index.html
